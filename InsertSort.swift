@@ -12,6 +12,7 @@
 import Foundation
 
 // Define constants
+// Set the size of the array, maximum and minimum random numbers
 let arraySize = 10
 let maxRandomNumber = 100
 let minRandomNumber = 1
